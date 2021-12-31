@@ -1,2 +1,3 @@
 # test_git
 为了学习github基础操作创建
+对于自己的项目可以直接用upload files的方法进行commit，但是对于与开源组合作的项目，需要用到Issues和pr。让项目参与者和项目负责人知道
