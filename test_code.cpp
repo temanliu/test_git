@@ -2,7 +2,7 @@
 
 int main()
 {
-    bestfunction();
+    betterfunction();
     std::cout<<"hello,world"<<std::endl;
     return 0;
 }
